@@ -15,4 +15,4 @@ This folder contains the survey form used for our validation study in the file *
 
 ## Artifacts
 This folder contains the sampled buggy samples based on CoderEval dataset. It is structured as follows: first level is which LLM generated the sample, then the dependency level and then the task.
-For each of the tasks, we give the buggy samples that we sampled alongside with the oracle. So, for instance `Codex/slib_runnable/get_patterns` contains the buggy sample(s) and oracle for the `get_patterns` task from CoderEval which dependency level is `slib_runnable` and that was run on `Codex`.
+For each of the tasks, we give the buggy samples that we sampled alongside with the oracle. So, for instance `Codex/slib_runnable/get_patterns` contains the buggy sample(s) and oracle for the `get_patterns` task from CoderEval which the dependency level is `slib_runnable` and was run on `Codex`.
