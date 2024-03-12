@@ -5,7 +5,7 @@ Preprint is available at: [link]
 
 Our replication package consists of three main folders: Manual_Labelling, Survey and Artifacts.
 
-Artifacts are based on the CoderEval data which can be found [here](https://github.com/CoderEval/CoderEval/tree/ec1177750cf10b5faa414a0e76d1430e75141a44)
+Artifacts are based on the CoderEval data which can be found [here](https://github.com/CoderEval/CoderEval/tree/ec1177750cf10b5faa414a0e76d1430e75141a44).
 
 ## Manual_Labelling
 This folder contains an Excel file with the labels assigned to our sampled sets throughout the coding process. It consists of 333 bugs sampled from the CoderEval dataset. Each bug sample references the LLM and ID number in the CoderEval repository.
