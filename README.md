@@ -14,7 +14,5 @@ This folder contains an Excel file with the labels assigned to our sampled sets 
 This folder contains the survey form used for our validation study in the file **Survey_Form.pdf**. Anonymized information about participants and all their answers to the survey questions are in the file **Results.csv**. 
 
 ## Artifacts
-This folder contains the sampled buggy samples based on CoderEval dataset. It is structured as follow: first level is which LLM generated the sample, then the dependency level and then the task.
-For each of the task, we give the buggy samples that we sampled alongside with the oracle. So, for instance `Codex/slib_runnable/get_patterns` contains the buggy sample(s) and oracle for the `get_patterns` task from CoderEval which depency level is `slib_runnable` and that was run on `Codex`.
-
-
+This folder contains the sampled buggy samples based on CoderEval dataset. It is structured as follows: first level is which LLM generated the sample, then the dependency level and then the task.
+For each of the tasks, we give the buggy samples that we sampled alongside with the oracle. So, for instance `Codex/slib_runnable/get_patterns` contains the buggy sample(s) and oracle for the `get_patterns` task from CoderEval which dependency level is `slib_runnable` and that was run on `Codex`.
