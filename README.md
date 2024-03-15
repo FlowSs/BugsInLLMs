@@ -20,11 +20,11 @@ For each of the tasks, we give the buggy samples that we sampled alongside with 
 ## The Paper
 You can find the paper [here](https://arxiv.org/abs/2403.08937) and the citation is as follows:
 
-@misc{tambon2024bugs,
-      title={Bugs in Large Language Models Generated Code: An Empirical Study},
-      author={Florian Tambon and Arghavan Moradi Dakhel and Amin Nikanjam and Foutse Khomh and Michel C. Desmarais and Giuliano Antoniol},
-      year={2024},
-      eprint={2403.08937},
-      archivePrefix={arXiv},
-      primaryClass={cs.SE}
-}
+    @misc{tambon2024bugs,
+    title={Bugs in Large Language Models Generated Code: An Empirical Study},
+    author={Florian Tambon and Arghavan Moradi Dakhel and Amin Nikanjam and Foutse Khomh and Michel C. Desmarais and Giuliano Antoniol},
+    eprint={2403.08937},
+    archivePrefix={arXiv},
+    primaryClass={cs.SE},
+    url = {https://arxiv.org/abs/2403.08937},
+    }
