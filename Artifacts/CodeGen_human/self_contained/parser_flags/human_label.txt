@@ -1,0 +1,2 @@
+Given an argparse.ArgumentParser instance, return its argument flags in a space-separated
+string.

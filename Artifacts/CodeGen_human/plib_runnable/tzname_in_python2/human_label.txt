@@ -1,0 +1,1 @@
+Change unicode output into bytestrings in Python 2

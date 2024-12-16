@@ -1,0 +1,1 @@
+Returns the file paths of the states in the inventory in the dict type.

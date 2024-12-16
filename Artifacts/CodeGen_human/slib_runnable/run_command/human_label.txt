@@ -1,0 +1,1 @@
+A list of command is given. Run the given command(s) with the given arguments use a subprocess. Return the running result (stdout and returncode)

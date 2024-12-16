@@ -1,0 +1,1 @@
+Check whether the obj class has the fill and compute methods.

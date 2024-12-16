@@ -1,0 +1,1 @@
+Replace "w:st=" in content with "w-st=".

@@ -1,0 +1,1 @@
+Converts a string concatenated by dot to a tuple consisting of integers.

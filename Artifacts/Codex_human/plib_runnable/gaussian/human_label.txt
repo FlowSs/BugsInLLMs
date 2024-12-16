@@ -1,0 +1,1 @@
+Calculate Gaussian centered with u is 0.2 and sigma is 0.1.

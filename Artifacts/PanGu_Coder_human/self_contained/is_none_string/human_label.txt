@@ -1,0 +1,3 @@
+Check if a string represents a None value.
+    Returns:
+        Return True if the type of val is string and the lowercase of val is equal to 'none', otherwise return False

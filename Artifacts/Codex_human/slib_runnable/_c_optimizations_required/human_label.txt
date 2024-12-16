@@ -1,0 +1,1 @@
+Return a true value if the C optimizations are required.

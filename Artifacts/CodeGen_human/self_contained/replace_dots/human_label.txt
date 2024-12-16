@@ -1,0 +1,6 @@
+Replaces all values of '.' to arg from the given string
+    Args:
+        value: old string
+        arg: new string to replace '.'
+    Returns:
+        str, the replaced string

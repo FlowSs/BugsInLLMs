@@ -1,0 +1,1 @@
+Return True if identifier is valid. In this base implementation, always return True.  (D)

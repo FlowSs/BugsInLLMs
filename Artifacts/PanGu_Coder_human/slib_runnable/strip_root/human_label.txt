@@ -1,0 +1,4 @@
+Remove root from path. If fails, throw exception
+
+    Returns:
+        A path without root

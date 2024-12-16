@@ -1,0 +1,1 @@
+Create a Bookmarks object from a list of raw bookmark string values.

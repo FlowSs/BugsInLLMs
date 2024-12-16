@@ -1,0 +1,2 @@
+def run_command(commands, args, cwd=None, verbose=False, hide_stderr=False, env=None):
+    return subprocess.run(commands, args, cwd=cwd, check=False, shell=True, env=env, check_returncode=True, verbose=verbose, hide_stderr=hide_stderr)

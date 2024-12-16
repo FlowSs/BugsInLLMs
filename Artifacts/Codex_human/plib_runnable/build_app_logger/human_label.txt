@@ -1,0 +1,8 @@
+General purpose application logger. Useful mainly for debugging
+    Args:
+        name: The name of logger
+        logfile: The log file need to save
+        debug: is need to debug
+
+    Returns:
+        Returns an instantiated logger object

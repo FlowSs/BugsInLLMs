@@ -1,0 +1,1 @@
+Return True if get "PURE_PYTHON" environ is not none and not 0, else return False

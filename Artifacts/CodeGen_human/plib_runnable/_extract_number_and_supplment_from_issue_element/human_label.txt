@@ -1,0 +1,1 @@
+Return the possible values of number and sup from the contents of issue.

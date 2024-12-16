@@ -1,0 +1,6 @@
+If input list is None, return []
+    Iterate over a string list and remove trailing os seperator characters.
+    Each string is tested if its length is greater than one and if the last
+    character is the pathname seperator.
+    Returns:
+    A list after removing trailing os seperator characters.

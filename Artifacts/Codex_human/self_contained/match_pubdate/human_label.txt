@@ -1,0 +1,1 @@
+For the given node, returns the first match in the pubdate_xpaths list.
